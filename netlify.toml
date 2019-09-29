@@ -1,7 +1,9 @@
 [[redirects]]
-  from = "/seven/*"
-  to = "https://seven-wonders.netlify.com/:splat"
+    from = "/seven/*"
+    to = "https://seven-wonders.netlify.com/:splat"
+    status = 200
 
 [[redirects]]
-  from = "/service-worker.js"
-  to = "https://seven-wonders.netlify.com/service-worker.js"
+    from = "/service-worker.js"
+    to = "https://seven-wonders.netlify.com/service-worker.js"
+    status = 200
